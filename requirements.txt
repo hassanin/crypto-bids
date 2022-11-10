@@ -1,0 +1,5 @@
+flask
+dataclasses-json
+# wrapt==1.14.1
+sqlacodegen
+psycopg2-binary 
